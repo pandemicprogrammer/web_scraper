@@ -1,5 +1,5 @@
 # web_scraper
  Python web scraper using Beautiful Soup.
  
- # INSTALL reqirements with 
+ # INSTALL requirements with 
       pip install -r requirements.txt
