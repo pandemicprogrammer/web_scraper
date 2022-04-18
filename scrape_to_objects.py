@@ -6,7 +6,6 @@ import colorize_plugin
 import requests
 from bs4 import BeautifulSoup
 
-init #Initialize colorize_plugin
 
 # herb = "chamomile"
 # substring = "the"
